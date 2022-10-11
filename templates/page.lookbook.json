@@ -61,6 +61,7 @@
     },
     "b4a7ebf1-9b8c-419c-808d-82e460b1e08e": {
       "type": "lookbook-slider",
+      "disabled": true,
       "blocks": {
         "template--16653551173856__b4a7ebf1-9b8c-419c-808d-82e460b1e08e-1665508169ff34aea3-0": {
           "type": "img",
@@ -76,8 +77,8 @@
             "type": "1",
             "shorttxt": "$59",
             "pos_size": "medium",
-            "bg_cl": "#fff",
-            "cl_text": "#333",
+            "bg_cl": "#ffffff",
+            "cl_text": "#333333",
             "heading": "01 - Water Resistance",
             "text": "<p>With groundbreaking water resistant capabilities, The Mission has the highest waterproof rating of any smartwatch on the market.<\/p>"
           }
@@ -85,7 +86,7 @@
         "template--16653551173856__b4a7ebf1-9b8c-419c-808d-82e460b1e08e-1665508169ff34aea3-2": {
           "type": "img",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mainimg_valentinoicons_rockstudshoes.jpg"
+            "image": "shopify:\/\/shop_images\/fullwidth_icons_rockstudshoes_02.jpg"
           }
         },
         "template--16653551173856__b4a7ebf1-9b8c-419c-808d-82e460b1e08e-1665508169ff34aea3-3": {
@@ -96,8 +97,8 @@
             "type": "1",
             "shorttxt": "$59",
             "pos_size": "exmedium",
-            "bg_cl": "#fff",
-            "cl_text": "#333",
+            "bg_cl": "#ffffff",
+            "cl_text": "#333333",
             "heading": "01 - Water Resistance",
             "text": "<p>With groundbreaking water resistant capabilities, The Mission has the highest waterproof rating of any smartwatch on the market.<\/p>"
           }
@@ -136,12 +137,131 @@
         "mg_mb": "0",
         "pd_mb": "0"
       }
+    },
+    "d68a9133-707a-4a7a-82db-325fc23eac6e": {
+      "type": "lookbook-packery",
+      "blocks": {
+        "template--16653551173856__d68a9133-707a-4a7a-82db-325fc23eac6e-166551487649b5ef94-0": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fullwidth_icons_rockstudshoes_02.jpg",
+            "col_pr": "3",
+            "col_pr_tb": "3",
+            "col_pr_mb": "6"
+          }
+        },
+        "template--16653551173856__d68a9133-707a-4a7a-82db-325fc23eac6e-166551487649b5ef94-2": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mainimg_valentinoicons_rockstudshoes.jpg",
+            "col_pr": "3",
+            "col_pr_tb": "3",
+            "col_pr_mb": "6"
+          }
+        },
+        "43d2872e-7489-4d63-ab92-06a5e111b5a2": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/diana-saldana-3.jpg",
+            "col_pr": "6",
+            "col_pr_tb": "3",
+            "col_pr_mb": "6"
+          }
+        },
+        "955e5e75-3ef1-40a5-a3eb-ee5929d8ef2b": {
+          "type": "pr",
+          "settings": {
+            "pos_t": 50,
+            "pos_l": 50,
+            "type": "1",
+            "shorttxt": "$59",
+            "pos_pin": "top",
+            "pos_size": "medium",
+            "bg_cl": "#fff",
+            "cl_text": "#000000",
+            "product": "white-dress"
+          }
+        },
+        "template--16653551173856__d68a9133-707a-4a7a-82db-325fc23eac6e-166551487649b5ef94-1": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woodland_desktop.webp",
+            "col_pr": "6",
+            "col_pr_tb": "6",
+            "col_pr_mb": "12"
+          }
+        },
+        "template--16653551173856__d68a9133-707a-4a7a-82db-325fc23eac6e-166551487649b5ef94-3": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mainimg_valentinoicons_rockstudshoes.jpg",
+            "col_pr": "3",
+            "col_pr_tb": "3",
+            "col_pr_mb": "6"
+          }
+        },
+        "template--16653551173856__d68a9133-707a-4a7a-82db-325fc23eac6e-166551487649b5ef94-4": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fullwidth_icons_rockstudshoes_02.jpg",
+            "col_pr": "3",
+            "col_pr_tb": "3",
+            "col_pr_mb": "6"
+          }
+        },
+        "11c40d0a-7c53-4580-a643-5c841549fbf2": {
+          "type": "pr",
+          "settings": {
+            "pos_t": 50,
+            "pos_l": 50,
+            "type": "1",
+            "shorttxt": "$59",
+            "pos_pin": "top",
+            "pos_size": "medium",
+            "bg_cl": "#fff",
+            "cl_text": "#000000",
+            "product": "white-dress-1"
+          }
+        }
+      },
+      "block_order": [
+        "template--16653551173856__d68a9133-707a-4a7a-82db-325fc23eac6e-166551487649b5ef94-0",
+        "template--16653551173856__d68a9133-707a-4a7a-82db-325fc23eac6e-166551487649b5ef94-2",
+        "43d2872e-7489-4d63-ab92-06a5e111b5a2",
+        "955e5e75-3ef1-40a5-a3eb-ee5929d8ef2b",
+        "template--16653551173856__d68a9133-707a-4a7a-82db-325fc23eac6e-166551487649b5ef94-1",
+        "template--16653551173856__d68a9133-707a-4a7a-82db-325fc23eac6e-166551487649b5ef94-3",
+        "template--16653551173856__d68a9133-707a-4a7a-82db-325fc23eac6e-166551487649b5ef94-4",
+        "11c40d0a-7c53-4580-a643-5c841549fbf2"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "space": "20",
+        "space_mb": "20",
+        "image_ratio": "ratioadapt",
+        "image_size": "cover",
+        "image_position": "8",
+        "pr_pin_des": "1",
+        "layout": "t4s-se-container",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": ""
+      }
     }
   },
   "order": [
     "heading",
     "main",
     "sidebar-page",
-    "b4a7ebf1-9b8c-419c-808d-82e460b1e08e"
+    "b4a7ebf1-9b8c-419c-808d-82e460b1e08e",
+    "d68a9133-707a-4a7a-82db-325fc23eac6e"
   ]
 }
