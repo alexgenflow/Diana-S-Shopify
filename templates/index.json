@@ -6,7 +6,8 @@
         "164602873867eb3815-0": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/diana-saldana-3.jpg",
+            "image": "shopify:\/\/shop_images\/mainimg_valentinoicons_rockstudshoes.jpg",
+            "image_mb": "shopify:\/\/shop_images\/diana-saldana-3.jpg",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -120,6 +121,7 @@
         },
         "aca13d02-fdca-4dd7-b455-cc71ffabb08a": {
           "type": "image_parent",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/diana-saldana-3.jpg",
             "image_position": "8",
@@ -773,8 +775,8 @@
         "cl_bg_gradient": "",
         "mg": ",,50px,",
         "pd": "24px 224px 0 px",
-        "mg_mb": ",,30px,",
-        "pd_mb": "",
+        "mg_mb": "0",
+        "pd_mb": "24px 24px 24px 24px",
         "use_cus_css": false,
         "code_cus_css": ""
       }
@@ -1879,7 +1881,7 @@
         "template--16650880811232__43a17255-b4bd-4134-988b-80b543fb9ec9-1665505303febc7f37-0": {
           "type": "custom_text",
           "settings": {
-            "text": "Subscribe to our newsletter",
+            "text": "SUBSCRIBE TO OUR NEWSLETTER",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
