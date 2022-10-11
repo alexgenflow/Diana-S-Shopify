@@ -2,6 +2,7 @@
   "sections": {
     "heading": {
       "type": "heading-template",
+      "disabled": true,
       "settings": {
         "use_specify_image": true,
         "parallax": false,
@@ -21,6 +22,7 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "layout": "t4s-container-wrap",
         "cl_bg": "",
@@ -56,11 +58,165 @@
         "sidebar_bdr": 5,
         "sidebar_pd": 10
       }
+    },
+    "b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731": {
+      "type": "lookbook-packery",
+      "disabled": true,
+      "blocks": {
+        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-0": {
+          "type": "img",
+          "settings": {
+            "col_pr": "3",
+            "col_pr_tb": "3",
+            "col_pr_mb": "6"
+          }
+        },
+        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-1": {
+          "type": "img",
+          "settings": {
+            "col_pr": "6",
+            "col_pr_tb": "6",
+            "col_pr_mb": "12"
+          }
+        },
+        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-2": {
+          "type": "img",
+          "settings": {
+            "col_pr": "3",
+            "col_pr_tb": "3",
+            "col_pr_mb": "6"
+          }
+        },
+        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-3": {
+          "type": "img",
+          "settings": {
+            "col_pr": "3",
+            "col_pr_tb": "3",
+            "col_pr_mb": "6"
+          }
+        },
+        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-4": {
+          "type": "img",
+          "settings": {
+            "col_pr": "3",
+            "col_pr_tb": "3",
+            "col_pr_mb": "6"
+          }
+        }
+      },
+      "block_order": [
+        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-0",
+        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-1",
+        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-2",
+        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-3",
+        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-4"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "space": "20",
+        "space_mb": "20",
+        "image_ratio": "ratioadapt",
+        "image_size": "cover",
+        "image_position": "8",
+        "pr_pin_des": "1",
+        "layout": "t4s-se-container",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": ""
+      }
+    },
+    "b4a7ebf1-9b8c-419c-808d-82e460b1e08e": {
+      "type": "lookbook-slider",
+      "blocks": {
+        "template--16653551173856__b4a7ebf1-9b8c-419c-808d-82e460b1e08e-1665508169ff34aea3-0": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mainimg_valentinoicons_rockstudshoes.jpg"
+          }
+        },
+        "template--16653551173856__b4a7ebf1-9b8c-419c-808d-82e460b1e08e-1665508169ff34aea3-1": {
+          "type": "txt",
+          "settings": {
+            "pos_t": 30,
+            "pos_l": 58,
+            "type": "1",
+            "shorttxt": "$59",
+            "pos_size": "medium",
+            "bg_cl": "#fff",
+            "cl_text": "#333",
+            "heading": "01 - Water Resistance",
+            "text": "<p>With groundbreaking water resistant capabilities, The Mission has the highest waterproof rating of any smartwatch on the market.<\/p>"
+          }
+        },
+        "template--16653551173856__b4a7ebf1-9b8c-419c-808d-82e460b1e08e-1665508169ff34aea3-2": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mainimg_valentinoicons_rockstudshoes.jpg"
+          }
+        },
+        "template--16653551173856__b4a7ebf1-9b8c-419c-808d-82e460b1e08e-1665508169ff34aea3-3": {
+          "type": "txt",
+          "settings": {
+            "pos_t": 17,
+            "pos_l": 13,
+            "type": "1",
+            "shorttxt": "$59",
+            "pos_size": "exmedium",
+            "bg_cl": "#fff",
+            "cl_text": "#333",
+            "heading": "01 - Water Resistance",
+            "text": "<p>With groundbreaking water resistant capabilities, The Mission has the highest waterproof rating of any smartwatch on the market.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16653551173856__b4a7ebf1-9b8c-419c-808d-82e460b1e08e-1665508169ff34aea3-0",
+        "template--16653551173856__b4a7ebf1-9b8c-419c-808d-82e460b1e08e-1665508169ff34aea3-1",
+        "template--16653551173856__b4a7ebf1-9b8c-419c-808d-82e460b1e08e-1665508169ff34aea3-2",
+        "template--16653551173856__b4a7ebf1-9b8c-419c-808d-82e460b1e08e-1665508169ff34aea3-3"
+      ],
+      "settings": {
+        "eff": "slide",
+        "loop": true,
+        "au_time": 0,
+        "au_hover": true,
+        "nav_btn": false,
+        "btn_vi": "hover",
+        "btn_owl": "default",
+        "btn_shape": "none",
+        "btn_cl": "dark",
+        "btn_size": "small",
+        "btn_hidden_mobile": true,
+        "nav_dot": false,
+        "dot_owl": "default",
+        "dots_cl": "dark",
+        "dots_round": true,
+        "dots_space": 10,
+        "dots_hidden_mobile": false,
+        "pr_pin_des": "1",
+        "layout": "t4s-se-container",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": ""
+      }
     }
   },
   "order": [
     "heading",
     "main",
-    "sidebar-page"
+    "sidebar-page",
+    "b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731",
+    "b4a7ebf1-9b8c-419c-808d-82e460b1e08e"
   ]
 }
