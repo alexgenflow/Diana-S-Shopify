@@ -394,7 +394,6 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
               "link": "",
               "content": "<p>Today deal sale off <strong>70%<\/strong>. End in <strong>[countdown]<\/strong>. Hurry Up [icon_arrow]<\/p>",
@@ -438,7 +437,7 @@
           "height": 45,
           "fontsize": 12,
           "cl": "#ffffff",
-          "bg": "#e91e63",
+          "bg": "#ffffff",
           "bg_op": 100,
           "close": "1",
           "cl_btn": "#ffffff",
