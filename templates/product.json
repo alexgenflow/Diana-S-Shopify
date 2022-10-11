@@ -5,7 +5,7 @@
       "settings": {
         "breadcrumb_pr": true,
         "back_next_pr": true,
-        "cl_bg": "#f6f6f6",
+        "cl_bg": "#ffffff",
         "cl_link": "#222222"
       }
     },
@@ -38,8 +38,48 @@
             "price_sale_color": "#ec0101"
           }
         },
+        "form": {
+          "type": "form",
+          "settings": {
+            "selector_mode": "circle",
+            "color_mode": "color is-sw-cl__round",
+            "enable_fit_ratio_img": false,
+            "color_size": "medium",
+            "show_qty": true,
+            "enable_wishlist": true,
+            "enable_compare": false,
+            "btn_atc_full": false,
+            "pr_btn_round": 0,
+            "ani": "none",
+            "time": 6,
+            "btn_txt": "3",
+            "btn_icon": false,
+            "button_style": "outline",
+            "button_color": "primary",
+            "button_effect": "sweep-to-top",
+            "show_dynamic_checkout": true,
+            "btn_txt2": "3",
+            "button_color_payment": "dark",
+            "product_list": [
+
+            ],
+            "show_product_current": true,
+            "qty_val": "0",
+            "advance_label": "Choose style",
+            "advance_pr_list": [
+
+            ]
+          }
+        },
+        "809e6a49-1252-4c57-9f0c-4ced02bd1de8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Crepe Couture short dress<br\/>- Barrel line<br\/>- Short sleeve detail<br\/>- Back neckline and bow detail<br\/>- Concealed rear zip and hook and eye fastening<br\/>- Crepe Couture (65% Virgin Wool, 35% Silk)<br\/>- Viscose-Silk lining (63% Viscose, 37% Silk)<br\/>- Length from shoulders: 80 cm \/ 31.5 in. in Italian size 40<br\/>- Sleeve length: 40 cm \/ 15.7 in. from the centre back in Italian size 40<br\/>The model is 176 cm \/ 5'9\" tall and wears an Italian size 40<br\/>- Made in Italy<\/p>"
+          }
+        },
         "95d4f334-8ea7-4cd2-b609-2373b1e848b8": {
           "type": "tab_des",
+          "disabled": true,
           "settings": {
             "title": "Description"
           }
@@ -53,40 +93,6 @@
             "length": 31,
             "readm": false,
             "readm_txt": "Read more"
-          }
-        },
-        "form": {
-          "type": "form",
-          "disabled": true,
-          "settings": {
-            "selector_mode": "circle",
-            "color_mode": "color is-sw-cl__round",
-            "enable_fit_ratio_img": false,
-            "color_size": "medium",
-            "show_qty": true,
-            "enable_wishlist": true,
-            "enable_compare": true,
-            "btn_atc_full": false,
-            "pr_btn_round": 40,
-            "ani": "t4s-ani-shake",
-            "time": 6,
-            "btn_txt": "3",
-            "btn_icon": false,
-            "button_style": "default",
-            "button_color": "primary",
-            "button_effect": "sweep-to-top",
-            "show_dynamic_checkout": false,
-            "btn_txt2": "3",
-            "button_color_payment": "dark",
-            "product_list": [
-
-            ],
-            "show_product_current": true,
-            "qty_val": "0",
-            "advance_label": "Choose style",
-            "advance_pr_list": [
-
-            ]
           }
         },
         "23551ebc-3be1-40d6-81b2-30f03478cccb": {
@@ -182,9 +188,10 @@
       "block_order": [
         "title",
         "price_review",
+        "form",
+        "809e6a49-1252-4c57-9f0c-4ced02bd1de8",
         "95d4f334-8ea7-4cd2-b609-2373b1e848b8",
         "description",
-        "form",
         "23551ebc-3be1-40d6-81b2-30f03478cccb",
         "size_delivery_ask",
         "meta",
@@ -202,11 +209,11 @@
         "thumb_lr_size": "medium",
         "image_ratio": "ratioadapt",
         "image_size": "cover",
-        "image_position": "8",
+        "image_position": "default",
         "main_click": "none",
         "zoom_tp": "external",
         "enable_zoom_icon": false,
-        "enable_zoom_click_mb": true,
+        "enable_zoom_click_mb": false,
         "enable_video_looping": false,
         "enable_video_muting": false,
         "enable_video_autoplaying": false,
@@ -218,10 +225,10 @@
         "btn_cl": "dark",
         "btn_size": "small",
         "btn_hidden_mobile": false,
-        "tabs_design": "tab",
-        "tabs_design_mb": "accordion",
+        "tabs_design": "accordion",
+        "tabs_design_mb": "tab",
         "tabs_position": "inner",
-        "enable_first_tab": true,
+        "enable_first_tab": false,
         "tabs_layout": "full",
         "bg": "#f6f6f8",
         "bg_mb": "#ffffff",
