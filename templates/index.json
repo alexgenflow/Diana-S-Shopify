@@ -14,11 +14,11 @@
             "open_link": "_blank",
             "animate_slide": "none",
             "text_align": "start",
-            "text_align_mb": "start",
+            "text_align_mb": "center",
             "content_width": "container",
-            "cv_pos": 91,
+            "cv_pos": 90,
             "ch_pos": 0,
-            "cv_pos_mb": 97,
+            "cv_pos_mb": 50,
             "ch_pos_mb": 0,
             "bg_overlay": "#000000",
             "bg_opacity": 0,
@@ -57,8 +57,8 @@
             "hidden_mobile": false,
             "text_fs_mb": 12,
             "text_lh_mb": 0,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 0,
+            "text_ls_mb": 0.8,
+            "text_mgb_mobile": 4,
             "animation": "fadeInUp"
           }
         },
@@ -81,7 +81,7 @@
             "text_fs_mb": 18,
             "text_lh_mb": 18,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 0,
+            "text_mgb_mobile": 5,
             "animation": "fadeInUp"
           }
         },
@@ -102,16 +102,16 @@
             "fsbutton": 14,
             "fwbutton": 600,
             "button_ls": 0,
-            "button_mh": 41,
+            "button_mh": 40,
             "button_bdr": 0,
             "button_pd_lr": 32,
             "button_mgb": 0,
-            "hidden_mobile": false,
-            "button_icon_w_mb": 0,
+            "hidden_mobile": true,
+            "button_icon_w_mb": 11,
             "fsbutton_mb": 12,
-            "button_mh_mb": 21,
-            "button_pd_lr_mb": 22,
-            "button_ls_mb": 0,
+            "button_mh_mb": 17,
+            "button_pd_lr_mb": 17,
+            "button_ls_mb": 0.1,
             "button_mgb_mb": 0,
             "animation": "fadeInUp"
           }
@@ -606,7 +606,7 @@
         "template--16650880811232__a116316a-a4f5-4208-b556-24cb11aa79fe-16655024949040684c-0": {
           "type": "bl_image",
           "settings": {
-            "image1": "shopify:\/\/shop_images\/mainimg_valentinoicons_rockstudshoes.jpg",
+            "image1": "shopify:\/\/shop_images\/fullwidth_icons_rockstudshoes_02.jpg",
             "col_dk": "6",
             "col_tb": "6",
             "layout_des": "carousel",
@@ -678,6 +678,90 @@
         "mg": ",,50px,",
         "pd": "",
         "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "336b959c-2bb3-4e2d-8fd7-5d31696145c3": {
+      "type": "image_text",
+      "disabled": true,
+      "blocks": {
+        "template--16650880811232__336b959c-2bb3-4e2d-8fd7-5d31696145c3-166550275332d49798-0": {
+          "type": "bl_image",
+          "settings": {
+            "image1": "shopify:\/\/shop_images\/fullwidth_icons_rockstudshoes_02.jpg",
+            "col_dk": "6",
+            "col_tb": "6",
+            "layout_des": "carousel",
+            "post_mobile": "default",
+            "image_ratio": "ratioadapt",
+            "image_size": "cover",
+            "image_position": "8",
+            "loop": true,
+            "au_time": 0,
+            "au_hover": true,
+            "nav_btn": false,
+            "btn_vi": "hover",
+            "btn_owl": "default",
+            "btn_shape": "none",
+            "btn_cl": "dark",
+            "btn_size": "small",
+            "btn_hidden_mobile": true,
+            "nav_dot": false,
+            "dot_owl": "default",
+            "dots_cl": "dark",
+            "dots_round": true,
+            "dots_space": 10,
+            "dots_hidden_mobile": false
+          }
+        },
+        "template--16650880811232__336b959c-2bb3-4e2d-8fd7-5d31696145c3-166550275332d49798-1": {
+          "type": "bl_text",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "text_size": "40,15",
+            "txt_align": "center",
+            "sub_heading": "",
+            "heading": "",
+            "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "subhd_color": "#222222",
+            "hd_color": "#222222",
+            "des_color": "#878787",
+            "use_shadow": false,
+            "button_label": "SHOP NOW",
+            "button_link": "#",
+            "open_link": "_blank",
+            "btn_icon": false,
+            "button_style": "outline",
+            "btn_size": "large",
+            "btn_cl": "dark",
+            "button_effect": "default"
+          }
+        }
+      },
+      "block_order": [
+        "template--16650880811232__336b959c-2bb3-4e2d-8fd7-5d31696145c3-166550275332d49798-0",
+        "template--16650880811232__336b959c-2bb3-4e2d-8fd7-5d31696145c3-166550275332d49798-1"
+      ],
+      "settings": {
+        "design_heading": "9",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "space_h_item": "20",
+        "space_v_item": "10",
+        "space_h_item_mb": "20",
+        "space_v_item_mb": "0",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": "",
         "pd_mb": "",
         "use_cus_css": false,
         "code_cus_css": ""
@@ -1788,90 +1872,6 @@
         "code_cus_css": ""
       }
     },
-    "336b959c-2bb3-4e2d-8fd7-5d31696145c3": {
-      "type": "image_text",
-      "disabled": true,
-      "blocks": {
-        "template--16650880811232__336b959c-2bb3-4e2d-8fd7-5d31696145c3-166550275332d49798-0": {
-          "type": "bl_image",
-          "settings": {
-            "image1": "shopify:\/\/shop_images\/11fd08c33773a22b747746777fcfd520.jpg",
-            "col_dk": "6",
-            "col_tb": "6",
-            "layout_des": "carousel",
-            "post_mobile": "default",
-            "image_ratio": "ratioadapt",
-            "image_size": "cover",
-            "image_position": "8",
-            "loop": true,
-            "au_time": 0,
-            "au_hover": true,
-            "nav_btn": false,
-            "btn_vi": "hover",
-            "btn_owl": "default",
-            "btn_shape": "none",
-            "btn_cl": "dark",
-            "btn_size": "small",
-            "btn_hidden_mobile": true,
-            "nav_dot": false,
-            "dot_owl": "default",
-            "dots_cl": "dark",
-            "dots_round": true,
-            "dots_space": 10,
-            "dots_hidden_mobile": false
-          }
-        },
-        "template--16650880811232__336b959c-2bb3-4e2d-8fd7-5d31696145c3-166550275332d49798-1": {
-          "type": "bl_text",
-          "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
-            "text_size": "40,15",
-            "txt_align": "center",
-            "sub_heading": "",
-            "heading": "FLOWER DRESS",
-            "text": "",
-            "subhd_color": "#222222",
-            "hd_color": "#222222",
-            "des_color": "#878787",
-            "use_shadow": false,
-            "button_label": "SHOP NOW",
-            "button_link": "#",
-            "open_link": "_blank",
-            "btn_icon": false,
-            "button_style": "outline",
-            "btn_size": "large",
-            "btn_cl": "dark",
-            "button_effect": "default"
-          }
-        }
-      },
-      "block_order": [
-        "template--16650880811232__336b959c-2bb3-4e2d-8fd7-5d31696145c3-166550275332d49798-0",
-        "template--16650880811232__336b959c-2bb3-4e2d-8fd7-5d31696145c3-166550275332d49798-1"
-      ],
-      "settings": {
-        "design_heading": "9",
-        "heading_align": "t4s-text-center",
-        "top_heading": "",
-        "icon_heading": "las la-gem",
-        "top_subheading": "",
-        "tophead_mb": 30,
-        "space_h_item": "20",
-        "space_v_item": "10",
-        "space_h_item_mb": "20",
-        "space_v_item_mb": "0",
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": "0",
-        "pd": "",
-        "mg_mb": "",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
-    },
     "43a17255-b4bd-4134-988b-80b543fb9ec9": {
       "type": "newsletter",
       "blocks": {
@@ -2156,6 +2156,7 @@
     "1646035317ea8b6928",
     "164603686708691778",
     "a116316a-a4f5-4208-b556-24cb11aa79fe",
+    "336b959c-2bb3-4e2d-8fd7-5d31696145c3",
     "046abec1-e972-40a5-b231-835388bd3380",
     "84abf761-3bbc-4392-9caf-717d9a1b3431",
     "16460362229768af39",
@@ -2164,7 +2165,6 @@
     "164620932069107a3a",
     "f1d41808-e74d-4731-8cd6-3bd6fc07e631",
     "0e3dfb11-4b22-49d0-9be9-43d00226532b",
-    "336b959c-2bb3-4e2d-8fd7-5d31696145c3",
     "43a17255-b4bd-4134-988b-80b543fb9ec9",
     "85f602dc-9bfb-453f-8899-8a90df64f317",
     "0d81381f-da30-4888-bbb6-98be10bb6521"
