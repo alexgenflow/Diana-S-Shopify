@@ -12,6 +12,8 @@
     "logo_tr": "shopify:\/\/shop_images\/DIANA_LOGO_OPT1.png",
     "logo_tr_width": 150,
     "only_icon": false,
+    "heading_color": "#000000",
+    "text_color": "#000000",
     "accent_color": "#292929",
     "loading_bar_color": "#878787",
     "link_color_hover": "#878787",
