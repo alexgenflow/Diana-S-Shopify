@@ -671,14 +671,15 @@
           "9a73cf8b-993e-4dbe-9f11-6e990bfb91c0"
         ],
         "settings": {
-          "layout": "logo_left",
+          "layout": "logo_center",
           "full_header": true,
           "height": 70,
           "arrow": false,
           "align": "center",
           "hover": "hover_sideup",
           "h_navmb": 60,
-          "bgnav": "#ffffff",
+          "h__bgimg": "shopify:\/\/shop_images\/Screenshot_2022-10-10_at_16.31.17.png",
+          "bgnav": "#000000",
           "opnav": 100,
           "clnav": "#222222",
           "clnav_hover": "#56cfe1",
