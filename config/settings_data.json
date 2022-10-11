@@ -2,15 +2,16 @@
   "current": {
     "purchase_code": "c74acc87-3503-44f6-b784-9243b91af5b8",
     "use_rtl": "0",
-    "header_design": "inline",
+    "header_design": "sidebar",
     "logo": "shopify:\/\/shop_images\/DIANA_LOGO_OPT1.png",
     "logo_width": 150,
     "logos": "shopify:\/\/shop_images\/DIANA_LOGO_OPT1.png",
     "logos_width": 150,
-    "logo_mb": "shopify:\/\/shop_images\/jbn.jpg",
-    "logo_mb_width": 95,
+    "logo_mb": "shopify:\/\/shop_images\/DIANA_LOGO_OPT2.png",
+    "logo_mb_width": 50,
     "logo_tr": "shopify:\/\/shop_images\/DIANA_LOGO_OPT1.png",
     "logo_tr_width": 150,
+    "only_icon": false,
     "accent_color": "#292929",
     "loading_bar_color": "#878787",
     "link_color_hover": "#878787",
@@ -965,7 +966,7 @@
         "settings": {
           "fnt_fm_button": "--font-family-1",
           "btn_fw": 600,
-          "btn_bdr": 60,
+          "btn_bdr": 0,
           "button_effect": "default"
         }
       },
@@ -2206,7 +2207,7 @@
           "clsea": "#56cfe1",
           "h_icon": "kalles",
           "hover_icon": "2",
-          "show_search": true,
+          "show_search": false,
           "show_acc": true,
           "show_wis": true,
           "cart_des": "1",
@@ -2225,9 +2226,185 @@
           "opnavtr": 40,
           "clnavtr": "#ffffff",
           "clnavtr_hover": "#ffffff",
-          "clseatr": "#56cfe1",
+          "clseatr": "#878787",
           "source": "2",
-          "txt": "<p>Welcome to our store!<\/p>"
+          "txt": ""
+        }
+      },
+      "header-categories-menu": {
+        "type": "header-categories-menu",
+        "blocks": {
+          "header-categories-menu-0": {
+            "type": "mega",
+            "settings": {
+              "title": "mega",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00BADB",
+              "pos_sub": "bottom",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "id": 1,
+              "r_s_h_item": "30",
+              "r_s_v_item": "30"
+            }
+          },
+          "header-categories-menu-1": {
+            "type": "mega",
+            "settings": {
+              "title": "mega",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00BADB",
+              "pos_sub": "bottom",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "id": 1,
+              "r_s_h_item": "30",
+              "r_s_v_item": "30"
+            }
+          },
+          "header-categories-menu-2": {
+            "type": "base",
+            "settings": {
+              "title": "base",
+              "url": "\/",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header-categories-menu-0",
+          "header-categories-menu-1",
+          "header-categories-menu-2"
+        ],
+        "settings": {
+          "full_header": false,
+          "height": 90,
+          "frm_sea_mw": 600,
+          "height2": 50,
+          "arrow": false,
+          "border": false,
+          "border_cate": false,
+          "header_design": "1",
+          "align": "start",
+          "hover": "hover_sideup",
+          "h_navmb": 62,
+          "bgnav": "#ffffff",
+          "opnav": 100,
+          "clnav": "#222222",
+          "clnav_hover": "#56cfe1",
+          "bgsea": "#fafafa",
+          "clsea": "#56cfe1",
+          "bgnav2": "#56CFE1",
+          "clnav2": "#fff",
+          "bgcategory": "#007e91",
+          "h_icon": "kalles",
+          "hover_icon": "2",
+          "show_search": true,
+          "show_acc": true,
+          "show_wis": true,
+          "cart_des": "1",
+          "bg_hc": "#000000",
+          "cl_hc": "#ffffff",
+          "sticky_header": true,
+          "scroll_header": true,
+          "bgnavst": "#ffffff",
+          "opnavst": 100,
+          "clnavst": "#222222",
+          "clnavst_hover": "#56cfe1",
+          "bgseavst": "#fafafa",
+          "clseast": "#56cfe1",
+          "transparent_header": false,
+          "space_transparent_header": false,
+          "bgnavtr": "#000000",
+          "opnavtr": 40,
+          "clnavtr": "#ffffff",
+          "clnavtr_hover": "#ffffff",
+          "bgseatr": "#fafafa",
+          "clseatr": "#56cfe1",
+          "fm_nav": "1",
+          "fs_nav": 14,
+          "fw_nav": 400,
+          "ls_nav": 0,
+          "txt_cat": "SHOP BY CATEGORY",
+          "text": "<i class=\"las la-phone fs__14\"><\/i> +01 23456789 <i class=\"las la-envelope fs__14 ml__15\"><\/i> <a class=\"cg\" href=\"mailto:kalles@domain.com\">kalles@domain.com<\/a>",
+          "shop_cat": true
+        }
+      },
+      "header-categories": {
+        "type": "header-categories",
+        "blocks": {
+          "header-categories-0": {
+            "type": "lv0_mega",
+            "settings": {
+              "title": "mega",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00BADB",
+              "pos_sub": "right-start",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "r_s_h_item": "20",
+              "r_s_v_item": "30"
+            }
+          },
+          "header-categories-1": {
+            "type": "lv0_mega",
+            "settings": {
+              "title": "mega",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00BADB",
+              "pos_sub": "right-start",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "r_s_h_item": "20",
+              "r_s_v_item": "30"
+            }
+          },
+          "header-categories-2": {
+            "type": "lv0_base",
+            "settings": {
+              "title": "base",
+              "url": "\/",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          }
+        },
+        "block_order": [
+          "header-categories-0",
+          "header-categories-1",
+          "header-categories-2"
+        ],
+        "settings": {
+          "arrow": true
         }
       }
     },
