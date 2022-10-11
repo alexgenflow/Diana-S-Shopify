@@ -59,80 +59,6 @@
         "sidebar_pd": 10
       }
     },
-    "b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731": {
-      "type": "lookbook-packery",
-      "disabled": true,
-      "blocks": {
-        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-0": {
-          "type": "img",
-          "settings": {
-            "col_pr": "3",
-            "col_pr_tb": "3",
-            "col_pr_mb": "6"
-          }
-        },
-        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-1": {
-          "type": "img",
-          "settings": {
-            "col_pr": "6",
-            "col_pr_tb": "6",
-            "col_pr_mb": "12"
-          }
-        },
-        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-2": {
-          "type": "img",
-          "settings": {
-            "col_pr": "3",
-            "col_pr_tb": "3",
-            "col_pr_mb": "6"
-          }
-        },
-        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-3": {
-          "type": "img",
-          "settings": {
-            "col_pr": "3",
-            "col_pr_tb": "3",
-            "col_pr_mb": "6"
-          }
-        },
-        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-4": {
-          "type": "img",
-          "settings": {
-            "col_pr": "3",
-            "col_pr_tb": "3",
-            "col_pr_mb": "6"
-          }
-        }
-      },
-      "block_order": [
-        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-0",
-        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-1",
-        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-2",
-        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-3",
-        "template--16653551173856__b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731-1665508159956a5606-4"
-      ],
-      "settings": {
-        "design_heading": "1",
-        "heading_align": "t4s-text-center",
-        "top_heading": "",
-        "icon_heading": "las la-gem",
-        "top_subheading": "",
-        "tophead_mb": 30,
-        "space": "20",
-        "space_mb": "20",
-        "image_ratio": "ratioadapt",
-        "image_size": "cover",
-        "image_position": "8",
-        "pr_pin_des": "1",
-        "layout": "t4s-se-container",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": ",,50px,",
-        "pd": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": ""
-      }
-    },
     "b4a7ebf1-9b8c-419c-808d-82e460b1e08e": {
       "type": "lookbook-slider",
       "blocks": {
@@ -205,10 +131,10 @@
         "layout": "t4s-se-container",
         "cl_bg": "",
         "cl_bg_gradient": "",
-        "mg": ",,50px,",
-        "pd": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": ""
+        "mg": "0",
+        "pd": "0",
+        "mg_mb": "0",
+        "pd_mb": "0"
       }
     }
   },
@@ -216,7 +142,6 @@
     "heading",
     "main",
     "sidebar-page",
-    "b5b214c6-f8c7-4ff4-9bf9-2b0f59ed3731",
     "b4a7ebf1-9b8c-419c-808d-82e460b1e08e"
   ]
 }
